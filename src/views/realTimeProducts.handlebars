@@ -1,0 +1,46 @@
+<div class="container">
+    <div class="left">
+        <div class="container-form" id="formContainer">
+            <h2>Cargar un producto</h2>
+            <div class="input-content">
+                <label for="title" class="form-label">Titulo:</label>
+                <input type="text" id="title" class="form-control" />
+            </div>
+            <div class="input-content">
+                <label for="description" class="form-label">Description:</label>
+                <input type="text" id="description" class="form-control" />
+            </div>
+            <div class="input-content">
+                <label for="price" class="form-label">Precio:</label>
+                <input type="text" id="price" class="form-control" />
+            </div>
+            <div class="input-content">
+                <label for="thumbnail" class="form-label">Imagen:</label>
+                <input type="text" id="thumbnail" class="form-control" />
+            </div>
+            <div class="input-content">
+                <label for="code" class="form-label">Codigo:</label>
+                <input type="text" id="code" class="form-control" />
+            </div>
+            <div class="input-content">
+                <label for="stock" class="form-label">Stock:</label>
+                <input type="text" id="stock" class="form-control" />
+            </div>
+            <button id="btnCrear" class="option-btn">Crear</button>
+        </div>
+        <div class="container-delete">
+            <h2>Eliminar producto</h2>
+            <div class="mb-3">
+                <label for="id" class="form-label">Id:</label>
+                <input type="text" id="id" class="form-control">
+            </div>
+            <button id="btnDelete" class="option-btn">Eliminar</button>
+        </div>
+    </div>
+    <div>
+        <h2>Listado de productos</h2>
+        <div id="historyProducts"></div>
+    </div>
+</div>
+<script src="/socket.io/socket.io.js"></script>
+<script src="/js/socketClient.js"></script>

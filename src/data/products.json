@@ -1,0 +1,92 @@
+[
+	{
+		"id": 1,
+		"title": "Producto 1",
+		"description": "Descripción del objeto número 1",
+		"price": 10.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "ABC123",
+		"stock": 20
+	},
+	{
+		"id": 2,
+		"title": "Producto 2",
+		"description": "Descripción del objeto número 2",
+		"price": 20.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "DEF456",
+		"stock": 15
+	},
+	{
+		"id": 3,
+		"title": "Producto 3",
+		"description": "Descripción del objeto número 3",
+		"price": 30.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "GHI789",
+		"stock": 8
+	},
+	{
+		"id": 4,
+		"title": "Producto 4",
+		"description": "Descripción del objeto número 4",
+		"price": 5.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "JKL101",
+		"stock": 30
+	},
+	{
+		"id": 5,
+		"title": "Producto 5",
+		"description": "Descripción del objeto número 5",
+		"price": 25.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "MNO202",
+		"stock": 12
+	},
+	{
+		"id": 6,
+		"title": "Producto 6",
+		"description": "Descripción del objeto número 6",
+		"price": 17.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "PQR303",
+		"stock": 18
+	},
+	{
+		"id": 7,
+		"title": "Producto 7",
+		"description": "Descripción del objeto número 7",
+		"price": 13.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "STU404",
+		"stock": 25
+	},
+	{
+		"id": 8,
+		"title": "Producto 8",
+		"description": "Descripción del objeto número 8",
+		"price": 9.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "VWX505",
+		"stock": 30
+	},
+	{
+		"id": 9,
+		"title": "Producto 9",
+		"description": "Descripción del objeto número 9",
+		"price": 15.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "YZA606",
+		"stock": 22
+	},
+	{
+		"id": 10,
+		"title": "Producto 10",
+		"description": "Descripción del objeto número 10",
+		"price": 28.99,
+		"thumbnail": "https://picsum.photos/200/200/?random&category=objects",
+		"code": "BCD707",
+		"stock": 10
+	}
+]
